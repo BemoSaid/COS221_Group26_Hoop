@@ -1,3 +1,2 @@
-# COS221_Group26_Hoop
-Awe boys
-B Trees suck
+# Rome Was Built In A Day
+"Rome wasn't built in a day" is an adage attesting to the need for time to create great things. It is the usual English translation of a medieval French phrase, Rome ne fu[t] pas faite toute en un jour, from the collection Li Proverbe au Vilain, published around 1190.[1] The modern French form is «Rome ne s'est pas faite en un jour». Here is how it may be used in a conversation: "You cannot expect me to finish a project of this scale in 24 hours. Rome wasn't built in a day".
